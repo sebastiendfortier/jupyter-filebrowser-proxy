@@ -4,16 +4,42 @@
 <svg
    version="1.1"
    id="svg132"
-   width="793.70081"
-   height="1122.5197"
-   viewBox="0 0 793.70081 1122.5197"
+   width="519"
+   height="516"
+   viewBox="0 0 519 516.00002"
+   sodipodi:docname="filebrowser-logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false" />
   <defs
-     id="defs136" />
+     id="defs136">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath220">
+      <rect
+         style="fill:#000000"
+         id="rect222"
+         width="527.60596"
+         height="549.31812"
+         x="0"
+         y="-15.198525" />
+    </clipPath>
+  </defs>
   <g
-     id="g138">
+     id="g138"
+     clip-path="url(#clipPath220)">
     <image
        width="519"
        height="516"
