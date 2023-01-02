@@ -3,7 +3,7 @@ import setuptools
 setuptools.setup(
     name="jupyter-filebrowser-proxy",
     version='0.0.1',
-    url="https://github.com/jupyterhub/jupyter-filebrowser-proxy",
+    url="https://github.com/sebastiendfortier/jupyter-filebrowser-proxy",
     author="Sebastien Fortier",
     description="Jupyter extension to proxy filebrowser",
     packages=setuptools.find_packages(),
